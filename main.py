@@ -6,3 +6,5 @@ def kredileriListele():
 
 kredileriListele()
 kredileriListele()
+kredileriListele()
+kredileriListele()
